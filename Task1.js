@@ -22,3 +22,8 @@ function sample(a) {
 
 console.log(sample(a));
 
+
+// git add .
+// git commit -m"commit message enter here" 
+//  git push origin main
+
