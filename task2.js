@@ -18,3 +18,6 @@ function sample(num,k){
 }
 
 console.log(sample(num,k))
+
+
+
